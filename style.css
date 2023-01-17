@@ -17,3 +17,13 @@ img {
     margin-left: auto;
     margin-right: auto;
   }
+
+.arrow-button {
+    /* Transparent background */
+    background-color: transparent;
+
+    /* Size */
+    height: 12px;
+    width: 12px;
+}
+
