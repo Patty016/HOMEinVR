@@ -9,7 +9,7 @@ img {
     width: 100%;
     max-width: 400px;
     height: auto;
-    margin-top: 100px;
+    margin-top: 90px;
 }
 
 .center {
@@ -19,7 +19,8 @@ img {
   }
 
   .icon {
-    margin-top: 50px;
+    margin-top: 260px;
+    margin-left: 200px;
     position: absolute;
     top: 50%;
     left: 50%;
