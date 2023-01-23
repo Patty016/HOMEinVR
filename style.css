@@ -58,6 +58,9 @@ img {
 }
 
 .move {
-  height: auto;
+  /*height: 50%;
   padding: 20px;
+  max-width: auto;*/
+  max-width: auto;
+  height: 50vh;
 }
