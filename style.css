@@ -1,5 +1,8 @@
 body {
     background-color: #000000;
+    min-height: 100%;
+    vertical-align: middle;
+
 }
 
 .logo{
@@ -20,5 +23,18 @@ body {
   max-height: 100vh;
   align-items: flex-end;
   align-content: center;
+}
 
+.outer {
+  display: table;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+}
+
+.middle {
+  display: table-cell;
+  vertical-align: middle;
 }
