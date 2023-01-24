@@ -2,22 +2,16 @@ body {
     background-color: #000000;
 }
 
-img {
-    /*width: 500px;
-    margin-top: 100px;    
-    */
-    max-width: 40vw;
-}
-
 .logo{
-  padding-left: 10%;
+  padding-left: 10vw;
   display: block;
   height: auto;
+  max-width: 40vw;
 }
 
 .arr{
   display: block;
-  width: 10%;
+  width: 10vw;
 }
 
 .container{
