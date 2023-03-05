@@ -3318,31 +3318,4 @@ input, select, textarea {
 
 	}
 
-	.column {
-		float: left;
-		width: 20%;
-		margin-bottom: 25px;
-		padding: 0 40px;
-	  }
-	  
-	  .card {
-		box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-	  }
-	  
-	  .team {
-		padding: 0 16px;
-	  }
-	  
-	  .team::after, .row::after {
-		content: "";
-		clear: both;
-		display: table;
-	  }
-	  
-	  .title {
-		color: grey;
-	  }
-
-	  
-
 	
