@@ -71,6 +71,8 @@ input, select, textarea {
 	appearance: none;
 }
 
+@font-face { font-family: Josefin; src: url('JosefinSans-VariableFont_wght.ttf'); } 
+
 /* Basic */
 
 	html {
@@ -98,7 +100,7 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		color: #888;
-		font-family: "Lato", sans-serif;
+		font-family: Josefin;
 		font-size: 16pt;
 		font-weight: 400;
 		line-height: 1.75em;
