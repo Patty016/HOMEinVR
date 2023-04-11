@@ -10,6 +10,8 @@
     justify-content: center;
     align-items: center;
   }
+
+  @font-face { font-family: Josefin; src: url('JosefinSans-VariableFont_wght.ttf'); }
   
   .content-wrapper {
     background: white;
@@ -26,8 +28,8 @@
   header {
     display: flex;
     justify-content: center;
-    font-family: "Poiret One", cursive;
-    font-size: 50px;
+    font-family: Josefin;
+    font-size: 70px;
   }
   
   .panel-wrapper {
@@ -45,11 +47,17 @@
     margin: 20px;
   }
   
-  img {
+  .profile {
     height: 140px;
     width: auto;
     border-radius: 50%;
     border: 2px solid black;
+  }
+
+  .logo{
+    height: 200px;
+    width: auto;
+    margin-bottom:25px;
   }
   
   .position {
