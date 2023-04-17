@@ -2205,8 +2205,9 @@ input, select, textarea {
 			border-radius: 0;
 		}
 
-			.image.main img {
+			.image.main video {
 				border-radius: 0;
+				
 			}
 
 /* List */
